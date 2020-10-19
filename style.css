@@ -1,0 +1,25 @@
+body {
+    font-family: 'Overpass', sans-serif;
+    font-size: 16pt;
+    background-color: #cef9e9;
+}
+section{
+    margin: 20px 140px  20px 140px 
+}
+ul {
+    list-style: none;
+    padding-left: 20px;
+}
+
+a {
+    font-style: italic;
+    color: #20595a;
+    text-decoration: none;
+}
+a:hover {
+    font-weight: 600;
+    color: #9b7c29;
+}
+h3 {
+    font-weight: 600;
+}
