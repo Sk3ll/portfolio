@@ -4,7 +4,7 @@ body {
     background-color: #cef9e9;
 }
 section{
-    margin: 20px 140px  20px 140px 
+    margin: 0 5%
 }
 ul {
     list-style: none;
@@ -22,4 +22,8 @@ a:hover {
 }
 h3 {
     font-weight: 600;
+}
+
+header h1 {
+    margin: 0
 }
